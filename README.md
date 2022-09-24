@@ -1,2 +1,2 @@
-# siteuniversudade
-Sei que nao recomendado fazer site usando tabelas, mas foi feita para testar conhecimentos e refinar codigo
+# Projeto de um site de universudade para treinar os conhecimentos
+
